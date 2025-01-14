@@ -158,6 +158,5 @@ Java Geliştirme Kiti (JDK): Sürüm 8 veya üzeri
 
 IDE (isteğe bağlı): IntelliJ IDEA, Eclipse veya benzeri
 
-Teşekkürler
 
 Bu sistem, eğitim amaçlı tasarlanmış basitleştirilmiş bir sinema rezervasyon platformudur. Daha fazla geliştirme için gerçek dünya sinema API'leri ile entegrasyon yapılması önerilir.
