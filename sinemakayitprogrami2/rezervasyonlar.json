@@ -1,0 +1,55 @@
+{
+  "salon": "Salon 1 - Inception -> 148 Dakika",
+  "film": "Inception",
+  "seans": "",
+  "musteri": {
+    "isim": "KAAN",
+    "telefonNo": "5319352859"
+  },
+  "koltuk": "A-5"
+}
+,
+{
+  "salon": "Salon 2 - The Dark Knight -> 152 Dakika",
+  "film": "The Dark Knight",
+  "seans": "10:30",
+  "musteri": {
+    "isim": "KANA",
+    "telefonNo": "555"
+  },
+  "koltuk": "A-5"
+}
+,
+{
+  "salon": "Salon 3 - Titanic -> 195 Dakika",
+  "film": "Titanic",
+  "seans": "15:30",
+  "musteri": {
+    "isim": "KAAN ",
+    "telefonNo": "531935"
+  },
+  "koltuk": "D-5"
+}
+,
+{
+  "salon": "Salon 1 - Inception -> 148 Dakika",
+  "film": "Inception",
+  "seans": "10:30",
+  "musteri": {
+    "isim": "KAAN",
+    "telefonNo": "44İ"
+  },
+  "koltuk": "A-1"
+}
+,
+{
+  "salon": "Salon 2 - The Dark Knight -> 152 Dakika",
+  "film": "The Dark Knight",
+  "seans": "15:30",
+  "musteri": {
+    "isim": "K",
+    "telefonNo": "5"
+  },
+  "koltuk": "D-1"
+}
+,
